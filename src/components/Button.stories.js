@@ -4,7 +4,7 @@ export default {
   title: "Button",
   component: Button,
   args: {
-    label: "Demo Button"
+    children: "Demo Button"
   }
 };
  
